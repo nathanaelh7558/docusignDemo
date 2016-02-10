@@ -1,0 +1,1 @@
+../../../DocuSign-iOS-SDK/DocuSign iOS SDK/SDK/Signing/API/DSSigningAPIDeclineSigning.h
